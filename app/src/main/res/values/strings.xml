@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">huawei_ieee_deu</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="scanned_code">Scanned Code:</string>
+    <string name="go_to_the_code">Go to the Code</string>
+    <string name="look_for_another_code">Look for Another Code</string>
+    <string name="go_to_code">Go to Code</string>
+    <string name="readed_internet_site">Readed Internet Site</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="scan_text">scan_text</string>
+</resources>

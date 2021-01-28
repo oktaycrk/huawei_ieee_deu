@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000029500561",
+		"product_id":"736430079244799817",
+		"client_id":"549967333536313728",
+		"client_secret":"7E4090C7F732A8ABACE2CF19CFF731AE14EC6CB387B16053E6D4FED880C5F540",
+		"project_id":"736430079244799817",
+		"app_id":"103780669",
+		"api_key":"CgB6e3x9v+pxcBnhEzWYm76mijyH4ASAHHUhdxLWjXJNMtgciD8F4prJNjD9y7mwOTaIgDcJWiGHyHh3EmBQhuyl",
+		"package_name":"com.challange.huawei_ieee_deu"
+	},
+	"configuration_version":"1.0"
+}
